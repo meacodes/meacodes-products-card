@@ -39,7 +39,7 @@ body {
   background-image: linear-gradient(to left bottom, #7ecdea, #96d5ec, #acddef, #c2e4f1, #d6ecf4);
   transition: .5s ease-in-out;
 }
-.product .card:hover:before, .product .card2:hover:before{
+.product .card:hover:before{
   clip-path: circle(300px at 80% -20%);
   transition: .5s;
 }
